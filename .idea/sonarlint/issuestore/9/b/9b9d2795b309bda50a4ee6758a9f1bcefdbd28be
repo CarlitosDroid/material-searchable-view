@@ -1,0 +1,6 @@
+
+isquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(Ë½ëþ8Ýàãê‰+
+"squid:ClassVariableVisibilityCheck"ZMake userEntityList a static final constant or non-public and provide accessors if needed.( Ê¥Á8¨Òë‰+
+œ"squid:ClassVariableVisibilityCheck"bMake filteredUserEntityList a static final constant or non-public and provide accessors if needed.(€áÖ¡øÿÿÿÿ8¨Òë‰+
+"squid:ClassVariableVisibilityCheck"SMake adapter a static final constant or non-public and provide accessors if needed.(–Ÿýùÿÿÿÿ8ã¯áê‰+
+tsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(…ÎÔËûÿÿÿÿ

@@ -1,0 +1,5 @@
+
+"squid:ClassVariableVisibilityCheck"TMake userList a static final constant or non-public and provide accessors if needed.(ıÉù’şÿÿÿÿ8Ÿ±Úë‰+
+ysquid:S1488!"bImmediately return this expression instead of assigning it to the temporary variable "viewHolder".(±¥ìÃ
+–"squid:ClassVariableVisibilityCheck"\Make filteredUserList a static final constant or non-public and provide accessors if needed.(ÿÉÏ‰şÿÿÿÿ8óÖÛë‰+
+tsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(…ÎÔËûÿÿÿÿ
